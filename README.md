@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**vinicius2534/vinicius2534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome è Vinicius Paulichen   
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagen do javaScript
+- Utilizo esse espaço para milha organização e compartilhamento dos meus projetos desevolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  viniciuspaulichen1@gmail.com
+
+
+  ![](https://media.tenor.com/aPgTU-Z9j1MAAAAM/funny-dogs-cute.gif)
+  
